@@ -5,6 +5,11 @@ function Home(){
 
     return (
         <div>
+            <div>Add to Cart
+            <img className="cart" src=" https://media.istockphoto.com/vectors/shopping-cart-icon-vector-id1128229893?s=612x612" alt="Avatar"/>
+
+           
+            </div>
             <h1>Home componemnts kishroe</h1>
             <div className="card">
             <img className="card" src="https://static.toiimg.com/photo/73078527.cms" alt="Avatar"/>
